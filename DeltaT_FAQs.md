@@ -15,10 +15,10 @@ Note: The storyline of Delta T constantly evolves along with the dominance of Me
 * What is the basic gameplay of Delta T? 
 
   * Features -
-Unearth weapons, mods, resources, and artifacts from the future through ‘Fractal Mining’ 
-Recruit and form your own clan from across the world, strategize on a global level 
-Establish clan bases and fortify them with unique weaponized mods 
-Wage clan wars by forming clan clusters around the world and establish the supremacy of your Megacorp 
+    * Unearth weapons, mods, resources, and artifacts from the future through ‘Fractal Mining’ 
+    * Recruit and form your own clan from across the world, strategize on a global level 
+    * Establish clan bases and fortify them with unique weaponized mods 
+    * Wage clan wars by forming clan clusters around the world and establish the supremacy of your Megacorp 
 
 * Where do I download DELTA T ? 
 
@@ -49,15 +49,14 @@ Wage clan wars by forming clan clusters around the world and establish the supre
 
 * What can I do (a) as a single player (b) as part of a clan? 
 
-  * As an Individual player
+  * As an Individual player - 
 Your goal is to capture enemy cores for your Megacorp, once you capture these cores they are open to being connected to power bases belonging to your Megacorp. You can hunt your area for rare mods, resources and other items through fractal mining. You can also craft high level artifacts through crafting using ‘Blueprints’. 
 
-  * As a clan member
+  * As a clan member - 
 Clan bases can be used to create Megacorp clusters (used in battles) that establish the dominance of your Megacorp. Bases can be customized using mods and allow for a high level of strategic gameplay.
 Players of a Megacorp can create a ‘cluster’ by connecting clan bases of their Megacorp. They can then pit these clusters against other Megacorps’ clusters globally in battles. 
 
 * How do I level-up in Delta T? 
-
   * Experience points (XP) is used to level up within the game. Levelling up unlocks skill points that can be used to customize your gameplay attributes. It also expands your inventory capacity, energy capacity and increases your chance to receive higher level weapons/mods as loot. 
 You earn experience points within the game by completing actions in the game such as: 
 Planting Core 
@@ -75,27 +74,22 @@ Levelling down Core
 Levelling down Base 
 
 * How do I change my Megacorp? 
-
   * You have an option to change your Megacorp only once in the game at Level 4. Pick your Megacorp wisely as you cannot change your Megacorp again.
 
 * How can I harvest energy in the game? 
-
   * You can harvest energy from cores all around you. Energy can be harvested from both allied cores as well as rival cores. 
 Select the core on the battle map and click on the ‘Harvest’ button. 
 You can harvest more energy from an allied core than a rival core of the same level. 
 
 * How do I create a core? 
-
   * You can create a core by planting a core seed at your desired location. 
 ‘Core seed’ is part of your inventory and can be planted at any desired location 
 This seed, given you have the right amount of Time Credits and Energy grows into a core of your Megacorp 
 
 * How do I harvest energy from a core? 
-
   * You can harvest energy from both allied cores as well as rival cores by tapping on the core and clicking on the ‘Harvest’ button. 
 
 * How do I capture a core? 
-
   * You can use weapons to neutralize an enemy core. 
 Once enemy cores have to brought to a neutral state (White on the map) they can be captured for your Megacorp. 
 How and why should I upgrade a Core? 
@@ -104,16 +98,15 @@ Each upgrade increases the defenses of the Core.
 This makes it harder for rival players to capture the Core. 
 
 * How can I earn Time Credits? 
-
   * The entire virtual economy of the game revolves around TC (Time Credits) and Time Marks. Earning more currency is essential to advance within the game and to unlock new upgrades. You can earn Time credits in different ways within the game such as:
-Loot - When you capture an enemy core or clan base you earn TC and in-game inventory. 
-Salary - Your chosen Megacorp gives you a salary depending on your level, rank, and respect within the game. 
-Trading - You can trade inventory on the trade hub in exchange for Time Credits. 
-What are ranks in the game? 
-Ranks are awarded based on the top percentile of players in the region. Your Rank correlates to the ‘Respect’ you hold in the community. For any region, the total number of ranks would be limited to 8, which implies that all new players start at rank 8 and can be at a maximum of rank 1 at the most at any given time. The rankings are calculated on a weekly basis against the average of the respect held by the user that week.
+    * Loot - When you capture an enemy core or clan base you earn TC and in-game inventory. 
+    * Salary - Your chosen Megacorp gives you a salary depending on your level, rank, and respect within the game. 
+    * Trading - You can trade inventory on the trade hub in exchange for Time Credits. 
+
+* What are ranks in the game? 
+  * Ranks are awarded based on the top percentile of players in the region. Your Rank correlates to the ‘Respect’ you hold in the community. For any region, the total number of ranks would be limited to 8, which implies that all new players start at rank 8 and can be at a maximum of rank 1 at the most at any given time. The rankings are calculated on a weekly basis against the average of the respect held by the user that week.
 
 * What is 'Respect' in Delta T? 
-
   * Respect is dependent on actions, which create a positive or a negative impact for the Megacorp.You can earn respect by
 Contributing energy or TC towards upgrading cores and/or bases 
 Capturing enemy cores 
