@@ -270,7 +270,32 @@ The privileges of each class are as follows:
 * How do I maintain a clan base? 
   * The clan base is powered by the cores connected to it. The power consumption of the clan base is dependent on the base level as well as the number of mods equipped on it. If the power supplied by the cores is less than the power consumption of the base then the base is destabilized and loses its base rings one by one until the power deficit is met. 
 
-# Battling an emney cluster – 404
+# Battling an emney cluster 
+
+* How do I create a Cluster?
+  * Create a Cluster for your Megacorp by connecting Clan Bases using the ‘Vector’ mod. If two Bases belonging to the same Megacorp are equipped with a Vector, players can connect the two Bases together by a ‘Connection string’. These Clusters can help you build the dominance of your Megacorp in the region and can be pitted against enemy Clusters in battles.
+    
+* How do I attack an enemy Cluster?
+  * If you have already created a Cluster for your Megacorp, you can initiate a battle with another Cluster by connecting to the enemy Cluster with an ‘X Mod’. An X mod can initiate a connection without the enemy base accepting to it. Once the ‘Attack string’ is formed then both clusters are locked into battle for the period of 24 hours (1 day) consisting a battle.
+    The range (Maximum length of Attack string formed) of an X Mod increases according to its level.
+        L1 X Mod: 600 km
+        L2 X Mod: 850 km
+        L3 X Mod: 1200 km
+        L4 X Mod: 2000 km
+        L5 X Mod: 3000 km
+
+* How is the strength of a Cluster calculated?
+  * Identification: Once an 'Attack string' is established only the forward connections from the origins are identified for both clusters. These are the Bases that count towards Cluster strength.
+  * Elimination:Any cyclic loops that lead back to the attack point are eliminated and are not calculated in the Cluster strength.
+  * Calculation: In this step, the levels of the bases forming the Cluster, the mods installed, the sizes of the clans are factored in to calculate overall Cluster strength.
+
+* What happens when a Cluster wins a battle?
+  * In case of the winning Cluster, all the connections that are considered for calculating the dominance are retained and only the circular loops that reach back to the attack origin are destroyed.
+  * insert pic here
+
+* What happens when a Cluster loses a battle?
+  * The losing Megacorp loses all the connections which are part of the Cluster. Any existing circular loops that reach back to the attack origin are also destroyed.
+  * insert pic here
 
 # Battle Maps 
 
