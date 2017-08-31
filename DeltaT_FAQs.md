@@ -216,8 +216,8 @@ Each ‘Blueprint’ is coded with a recipe that creates an artifact, You can on
 
 * What are the different resources available for crafting? 
   * Elementals are the base material for any kind of weapon, mod or artifact. It is commonly found and can exhibit the physical and chemical properties of any known element on earth. 
-Catalysts are powerful transmuting agents capable of melding the most unlikely elements together.
-Exotics are tachyon particles believed to be capable of storing predefined material blueprints. They are the powerhouse of every weapon, mod or artifact.
+  * Catalysts are powerful transmuting agents capable of melding the most unlikely elements together.
+  * Exotics are tachyon particles believed to be capable of storing predefined material blueprints. They are the powerhouse of every weapon, mod or artifact.
 
 # Creating a clan
 
@@ -251,8 +251,9 @@ The privileges of each class are as follows:
 
 * What is a clan base? 
   * Each clan can set up its own base to defend cores of their Megacorp in the area. The base activates clan features such as clan chat. The base is powered by cores connected to it and can be fortified with mods to protect these cores.
-How do I set up a clan base? 
-Founders can set up a clan base by planting a base seed at the desired location. The base requires power to sustain and gets it from energy cores connected to it. It is ideal to plant a base where there is a high density of cores belonging to your Megacorp to power it.
+
+* How do I set up a clan base? 
+  * Founders can set up a clan base by planting a base seed at the desired location. The base requires power to sustain and gets it from energy cores connected to it. It is ideal to plant a base where there is a high density of cores belonging to your Megacorp to power it.
 
 * What are mods? 
   * Mods are enhancements that can be equipped on base ring slots. Mods help to defend the base against enemy attack.
@@ -274,43 +275,33 @@ Founders can set up a clan base by planting a base seed at the desired location.
 # Battle Maps 
 
 * What is the Battle map? 
-
   * The Battle map can be used to view the global strength of each of the Megacorps and plan battle strategies accordingly. The players can use it to gather information about allied and enemy cores and bases as well as to simulate the result of cluster battles. 
 
 * What is Dominance history? 
-
   * Dominance history shows the details of the strength of each Megacorp in the previous cycles.
 
 * What is the default map view? 
-
   * The map view shows all the base to base connections and the associated bases of the player’s Megacorp. The attack strings initiated by their Megacorp and incoming attack strings are also shown to the player. The information can be filtered according to zoom levels by which players can filter high-level bases from low-level bases. At the highest zoom level, the player can also view cores in their area.
 
 * What is Virtual community board? 
-
   * Trade inventory and communicate with nearby players using the Virtual Community Board. It shows you all the messages and trade requests which are within your vicinity. This board is constantly updated as you move. 
 
 * What is Comms? 
-
   * Chat and strategize with fellow players. Set the chat radius to filter out unwanted messages. You can tune into Local, Megacorp and Global chat according to your preferences.
 
 * What is the Battle log? 
-
   * The Battle log shows you the ongoing battles that your Megacorp is involved in. The battle log is refreshed every 3 days. Each attack initiated by a player to or from another Megacorp's base is represented here. The colour of the marking on the graph is dependent on the Megacorp being attacked.
 
 * How do I interpret the Battle log? 
-
   * Clicking on a battle (Represented as coloured lines on the log) will give the player details of the two bases involved in the battle as well as details of the battle.
 
 * What is a Battle Simulation? 
-
   * The Battle simulation view can be used by players to simulate and visualize the result of initiating attacks on other bases. This view gives the present cluster strength of the player’s faction and the enemy cluster strength after considering the base under attack. The player can view enemy bases of one Megacorp at a time using the Megacorp filters. 
 
 * How do I simulate a battle in Battle maps? 
-
   * Click on your base that you want to initiate the attack string from, then click on the enemy base (in the enemy cluster) that you want to attack. An attack link will be simulated (Represented as a dotted line) and will give you details of yours and enemy cluster strengths. The simulation will also show all of the bases involved in the battle for your cluster and the enemy cluster.
 
 * How do I interpret a Battle simulation? 
-
   * All the incoming connections from the selected base that do not add to cluster strength are marked in 
 All the outgoing connections that add to cluster strength are marked in 
 All the closed loops that do not add to cluster strength are marked in 
