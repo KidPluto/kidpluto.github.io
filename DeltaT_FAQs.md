@@ -2,13 +2,13 @@ http://deltatgame.com/faqs all on one page, snap shot from August 31, 2017
 
 # Getting started
 
-What is DELTA T? 
+*What is DELTA T? 
 
-Delta T is an ambitious AR MMO with a sci-fi storyline of epic proportions. The story unfolds according to gameplay cycles and overall dominance. The core mechanics include location-based gameplay, clan wars, urban exploration and global strategy. 
+  *Delta T is an ambitious AR MMO with a sci-fi storyline of epic proportions. The story unfolds according to gameplay cycles and overall dominance. The core mechanics include location-based gameplay, clan wars, urban exploration and global strategy. 
 
-What is the backstory of Delta T? 
+*What is the backstory of Delta T? 
 
-The future is under siege; resources are scarce as four Megacorps wage war for world dominance. The Titan Wars have left the planet ravaged. Each of the four Megacorps firmly believes that they hold the key to saving the human race.
+  *The future is under siege; resources are scarce as four Megacorps wage war for world dominance. The Titan Wars have left the planet ravaged. Each of the four Megacorps firmly believes that they hold the key to saving the human race.
 The only way out is to alter the past and end this war before it even begins. Ally yourself with one of the Megacorps and erase the timelines of your rival Megacorps in the present to permanently alter the future. 
 Note: The storyline of Delta T constantly evolves along with the dominance of Megacorps over gameplay cycles. 
 
