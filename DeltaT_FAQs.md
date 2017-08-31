@@ -1,6 +1,6 @@
 http://deltatgame.com/faqs all on one page, snap shot from August 31, 2017
 
-#Getting started
+# Getting started
 
 What is DELTA T? 
 
@@ -144,7 +144,7 @@ OR
 Click on 'Share' to get a unique tracking link which you can share on social media platforms like Whatsapp, Telegram, Facebook, Google+ and more. 
 
 
-#Currencies, items & Inventory
+# Currencies, items & Inventory
 
 What are Time Credits? 
 
@@ -227,7 +227,7 @@ Compactor
 Optimizes mod capacity on base rings and opens up more storage slots.The power requirement of any mods deployed on compactor slots is higher than normal mods.
 
 
-#Fracking : Mining for resources
+# Fracking : Mining for resources
 
 How do I find items near me? 
 
@@ -237,7 +237,7 @@ These shapes are arranged in such a way that the intersection of them gives you 
 Move towards the intersection of the shapes to pick up the item.
 
 
-#Crafting items
+# Crafting items
 
 How do I craft an item? 
 
@@ -249,7 +249,7 @@ Catalysts are powerful transmuting agents capable of melding the most unlikely e
 Exotics are tachyon particles believed to be capable of storing predefined material blueprints. They are the powerhouse of every weapon, mod or artifact.
 
 
-#Creating a clan
+# Creating a clan
 
 How do I create a clan? 
 
@@ -305,9 +305,9 @@ How do I maintain a clan base?
 
 The clan base is powered by the cores connected to it. The power consumption of the clan base is dependent on the base level as well as the number of mods equipped on it. If the power supplied by the cores is less than the power consumption of the base then the base is destabilized and loses its base rings one by one until the power deficit is met. 
 
-#Battling an emney cluster – 404
+# Battling an emney cluster – 404
 
-#Battle Maps 
+# Battle Maps 
 
 What is the Battle map? 
 
