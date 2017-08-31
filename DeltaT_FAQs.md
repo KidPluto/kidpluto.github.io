@@ -1,4 +1,5 @@
 http://deltatgame.com/faqs all on one page
+
 Getting started
 What is DELTA T? 
 Delta T is an ambitious AR MMO with a sci-fi storyline of epic proportions. The story unfolds according to gameplay cycles and overall dominance. The core mechanics include location-based gameplay, clan wars, urban exploration and global strategy. 
@@ -8,7 +9,7 @@ The only way out is to alter the past and end this war before it even begins. Al
 Note: The storyline of Delta T constantly evolves along with the dominance of Megacorps over gameplay cycles. 
 What is the basic gameplay of Delta T? 
 Features -
-Unearth weapons, mods, resources, and artifacts from the future through ‘Fractal Mining’ 
+Unearth weapons, mods, resources, and artifacts from the future through â€˜Fractal Miningâ€™ 
 Recruit and form your own clan from across the world, strategize on a global level 
 Establish clan bases and fortify them with unique weaponized mods 
 Wage clan wars by forming clan clusters around the world and establish the supremacy of your Megacorp 
@@ -29,13 +30,13 @@ Uses one or more files on the device such as images, video or audio and the devi
 Location
 Approximate location (network based) and precise location (GPS and network based) is used to enable location based gameplay elements and to track player movement in relation to the game map. 
 What is my aim in Delta T? 
-Your goal in Delta T is to increase the dominance of your Megacorp to turn the game’s storyline in your favor. You can do this in two ways as an individual player and as a member of a clan.
+Your goal in Delta T is to increase the dominance of your Megacorp to turn the gameâ€™s storyline in your favor. You can do this in two ways as an individual player and as a member of a clan.
 What can I do (a) as a single player (b) as part of a clan? 
 As an Individual player
-Your goal is to capture enemy cores for your Megacorp, once you capture these cores they are open to being connected to power bases belonging to your Megacorp. You can hunt your area for rare mods, resources and other items through fractal mining. You can also craft high level artifacts through crafting using ‘Blueprints’. 
+Your goal is to capture enemy cores for your Megacorp, once you capture these cores they are open to being connected to power bases belonging to your Megacorp. You can hunt your area for rare mods, resources and other items through fractal mining. You can also craft high level artifacts through crafting using â€˜Blueprintsâ€™. 
 As a clan member
 Clan bases can be used to create Megacorp clusters (used in battles) that establish the dominance of your Megacorp. Bases can be customized using mods and allow for a high level of strategic gameplay.
-Players of a Megacorp can create a ‘cluster’ by connecting clan bases of their Megacorp. They can then pit these clusters against other Megacorps’ clusters globally in battles. 
+Players of a Megacorp can create a â€˜clusterâ€™ by connecting clan bases of their Megacorp. They can then pit these clusters against other Megacorpsâ€™ clusters globally in battles. 
 How do I level-up in Delta T? 
 Experience points (XP) is used to level up within the game. Levelling up unlocks skill points that can be used to customize your gameplay attributes. It also expands your inventory capacity, energy capacity and increases your chance to receive higher level weapons/mods as loot. 
 You earn experience points within the game by completing actions in the game such as: 
@@ -56,14 +57,14 @@ How do I change my Megacorp?
 You have an option to change your Megacorp only once in the game at Level 4. Pick your Megacorp wisely as you cannot change your Megacorp again.
 How can I harvest energy in the game? 
 You can harvest energy from cores all around you. Energy can be harvested from both allied cores as well as rival cores. 
-Select the core on the battle map and click on the ‘Harvest’ button. 
+Select the core on the battle map and click on the â€˜Harvestâ€™ button. 
 You can harvest more energy from an allied core than a rival core of the same level. 
 How do I create a core? 
 You can create a core by planting a core seed at your desired location. 
-‘Core seed’ is part of your inventory and can be planted at any desired location 
+â€˜Core seedâ€™ is part of your inventory and can be planted at any desired location 
 This seed, given you have the right amount of Time Credits and Energy grows into a core of your Megacorp 
 How do I harvest energy from a core? 
-You can harvest energy from both allied cores as well as rival cores by tapping on the core and clicking on the ‘Harvest’ button. 
+You can harvest energy from both allied cores as well as rival cores by tapping on the core and clicking on the â€˜Harvestâ€™ button. 
 How do I capture a core? 
 You can use weapons to neutralize an enemy core. 
 Once enemy cores have to brought to a neutral state (White on the map) they can be captured for your Megacorp. 
@@ -77,7 +78,7 @@ Loot - When you capture an enemy core or clan base you earn TC and in-game inven
 Salary - Your chosen Megacorp gives you a salary depending on your level, rank, and respect within the game. 
 Trading - You can trade inventory on the trade hub in exchange for Time Credits. 
 What are ranks in the game? 
-Ranks are awarded based on the top percentile of players in the region. Your Rank correlates to the ‘Respect’ you hold in the community. For any region, the total number of ranks would be limited to 8, which implies that all new players start at rank 8 and can be at a maximum of rank 1 at the most at any given time. The rankings are calculated on a weekly basis against the average of the respect held by the user that week.
+Ranks are awarded based on the top percentile of players in the region. Your Rank correlates to the â€˜Respectâ€™ you hold in the community. For any region, the total number of ranks would be limited to 8, which implies that all new players start at rank 8 and can be at a maximum of rank 1 at the most at any given time. The rankings are calculated on a weekly basis against the average of the respect held by the user that week.
 What is 'Respect' in Delta T? 
 Respect is dependent on actions, which create a positive or a negative impact for the Megacorp.You can earn respect by
 Contributing energy or TC towards upgrading cores and/or bases 
@@ -123,8 +124,8 @@ Weapons are used to target enemy cores and bases, they are of two types P2P (Poi
 What are Mods? 
 : Mods can be installed on cores and bases to protect them from enemy attack. Each mod has its unique defensive properties. Learn more about mods here. You can either find mods through fractal mining or you can craft them they can also be won as part of loots and daily rewards.
 How do I unlock generators? 
-Generators are unlocked as and when you do certain tasks within the game like walking ‘x’ number of km, planting ‘x’ number of seeds etc. These generators get upgraded as and when more of the same activity is done. 
-They are not level locked – Can be used in any level, Can be unlocked at any level 
+Generators are unlocked as and when you do certain tasks within the game like walking â€˜xâ€™ number of km, planting â€˜xâ€™ number of seeds etc. These generators get upgraded as and when more of the same activity is done. 
+They are not level locked â€“ Can be used in any level, Can be unlocked at any level 
 They cannot be transferred to another player 
 Each generator takes a certain generation time to generate Weapons 
 The maximum number of weapons that can be queued for generation are based on the level of the generator 
@@ -148,13 +149,13 @@ Type:AOE
 This weapon can be used to directly target an opposing player. It drains energy from opposing players within the area of effect and transfers part of that energy to you. It is ineffective against enemy mods or cores.
 Morph 
 Type: P2P 
-This weapon is purely chance based. It transforms enemy cores into any of the four Megacorp’s cores at random, if used on a Mod it transforms to any other Mod at random.
+This weapon is purely chance based. It transforms enemy cores into any of the four Megacorpâ€™s cores at random, if used on a Mod it transforms to any other Mod at random.
 What are Mods? 
-Mods can be installed on cores and clan bases to protect them from enemy attack. Each mod has its own unique defensive properties and can be used in combination according to your clan’s strategy.
+Mods can be installed on cores and clan bases to protect them from enemy attack. Each mod has its own unique defensive properties and can be used in combination according to your clanâ€™s strategy.
 Vector
 Enables players to create base-base connects that are crucial to the dominance of their Megacorp. The bases to be connected must both be equipped with vector mods for connecting to be successful. The range of the connects that can be created increases with the level of the mod.
 X Mod
-Enables a player to initiate a cluster battle, if a player uses an attack vector on an enemy clan cluster the two clusters are locked into battle for the period of a ‘loop’.
+Enables a player to initiate a cluster battle, if a player uses an attack vector on an enemy clan cluster the two clusters are locked into battle for the period of a â€˜loopâ€™.
 Night Cloud
 Releases an electronic fog that affects devices within the area of influence and hampers visibility. Temporarily disables the ability of enemies to respond to attacks.
 Flare
@@ -179,8 +180,8 @@ Move towards the intersection of the shapes to pick up the item.
 
 Crafting items
 How do I craft an item? 
-You can acquire resources required to craft an item through fractal mining. Resources are broadly classified into 3 types Elementals, Catalysts, and Exotics. You also need to find artifacts called ‘Blueprints’ that hold the recipe to craft these items.
-Each ‘Blueprint’ is coded with a recipe that creates an artifact, You can only find out what artifact you can unlock with a ‘Blueprint’ only after you acquire it. Once the required resources are available you can craft the item by initiating the craft sequence.
+You can acquire resources required to craft an item through fractal mining. Resources are broadly classified into 3 types Elementals, Catalysts, and Exotics. You also need to find artifacts called â€˜Blueprintsâ€™ that hold the recipe to craft these items.
+Each â€˜Blueprintâ€™ is coded with a recipe that creates an artifact, You can only find out what artifact you can unlock with a â€˜Blueprintâ€™ only after you acquire it. Once the required resources are available you can craft the item by initiating the craft sequence.
 What are the different resources available for crafting? 
 Elementals are the base material for any kind of weapon, mod or artifact. It is commonly found and can exhibit the physical and chemical properties of any known element on earth. 
 Catalysts are powerful transmuting agents capable of melding the most unlikely elements together.
@@ -229,7 +230,7 @@ Mod slots are storage slots which are present on the influence rings of the base
 How do I maintain a clan base? 
 The clan base is powered by the cores connected to it. The power consumption of the clan base is dependent on the base level as well as the number of mods equipped on it. If the power supplied by the cores is less than the power consumption of the base then the base is destabilized and loses its base rings one by one until the power deficit is met. 
 
-Battling an emney cluster – 404
+Battling an emney cluster â€“ 404
 
 Battle Maps 
 What is the Battle map? 
@@ -237,7 +238,7 @@ The Battle map can be used to view the global strength of each of the Megacorps 
 What is Dominance history? 
 Dominance history shows the details of the strength of each Megacorp in the previous cycles.
 What is the default map view? 
-The map view shows all the base to base connections and the associated bases of the player’s Megacorp. The attack strings initiated by their Megacorp and incoming attack strings are also shown to the player. The information can be filtered according to zoom levels by which players can filter high-level bases from low-level bases. At the highest zoom level, the player can also view cores in their area.
+The map view shows all the base to base connections and the associated bases of the playerâ€™s Megacorp. The attack strings initiated by their Megacorp and incoming attack strings are also shown to the player. The information can be filtered according to zoom levels by which players can filter high-level bases from low-level bases. At the highest zoom level, the player can also view cores in their area.
 What is Virtual community board? 
 Trade inventory and communicate with nearby players using the Virtual Community Board. It shows you all the messages and trade requests which are within your vicinity. This board is constantly updated as you move. 
 What is Comms? 
@@ -247,7 +248,7 @@ The Battle log shows you the ongoing battles that your Megacorp is involved in. 
 How do I interpret the Battle log? 
 Clicking on a battle (Represented as coloured lines on the log) will give the player details of the two bases involved in the battle as well as details of the battle.
 What is a Battle Simulation? 
-The Battle simulation view can be used by players to simulate and visualize the result of initiating attacks on other bases. This view gives the present cluster strength of the player’s faction and the enemy cluster strength after considering the base under attack. The player can view enemy bases of one Megacorp at a time using the Megacorp filters. 
+The Battle simulation view can be used by players to simulate and visualize the result of initiating attacks on other bases. This view gives the present cluster strength of the playerâ€™s faction and the enemy cluster strength after considering the base under attack. The player can view enemy bases of one Megacorp at a time using the Megacorp filters. 
 How do I simulate a battle in Battle maps? 
 Click on your base that you want to initiate the attack string from, then click on the enemy base (in the enemy cluster) that you want to attack. An attack link will be simulated (Represented as a dotted line) and will give you details of yours and enemy cluster strengths. The simulation will also show all of the bases involved in the battle for your cluster and the enemy cluster.
 How do I interpret a Battle simulation? 
