@@ -39,12 +39,9 @@ Wage clan wars by forming clan clusters around the world and establish the supre
 * What permissions does Delta T need? 
 
   * Delta T requests access to
-Contacts
-To access Google play account data
-Media Storage
-Uses one or more files on the device such as images, video or audio and the devices external storage. Enable storage permissions to allow the app to read game data from storage
-Location
-Approximate location (network based) and precise location (GPS and network based) is used to enable location based gameplay elements and to track player movement in relation to the game map. 
+    * Contacts To access Google play account data
+    * Media Storage Uses one or more files on the device such as images, video or audio and the devices external storage. Enable storage permissions to allow the app to read game data from storage
+    * Location Approximate location (network based) and precise location (GPS and network based) is used to enable location based gameplay elements and to track player movement in relation to the game map. 
 
 * What is my aim in Delta T? 
 
