@@ -120,9 +120,8 @@ The Broadcast can be used to:-
     
 * How do I invite players to Delta T 
   * Go to Quick Menu >> Settings >> Invite
-Enter your friend's email id to send him a direct mail. 
-OR 
-Click on 'Share' to get a unique tracking link which you can share on social media platforms like Whatsapp, Telegram, Facebook, Google+ and more. 
+  * Enter your friend's email id to send him a direct mail. OR 
+  * Click on 'Share' to get a unique tracking link which you can share on social media platforms like Whatsapp, Telegram, Facebook, Google+ and more. 
 
 
 # Currencies, items & Inventory
@@ -154,51 +153,47 @@ Click on 'Share' to get a unique tracking link which you can share on social med
 * How do I unlock generators? 
 
   * Generators are unlocked as and when you do certain tasks within the game like walking ‘x’ number of km, planting ‘x’ number of seeds etc. These generators get upgraded as and when more of the same activity is done. 
-They are not level locked – Can be used in any level, Can be unlocked at any level 
-They cannot be transferred to another player 
-Each generator takes a certain generation time to generate Weapons 
-The maximum number of weapons that can be queued for generation are based on the level of the generator 
+They are not level locked 
+    * Can be used in any level, Can be unlocked at any level 
+    * They cannot be transferred to another player 
+    * Each generator takes a certain generation time to generate Weapons 
+    * The maximum number of weapons that can be queued for generation are based on the level of the generator 
 
 * What are the weapons in the game? 
-  * Weapons in the game are used to target and neutralize enemy cores. These weapons are of two types P2P (Point to Point) and AOE (Area of effect).
-What are the different weapons available in the game? 
+  * Weapons in the game are used to target and neutralize enemy cores. These weapons are of two types 
+    * P2P (Point to Point) and 
+    * AOE (Area of effect).
+
+* What are the different weapons available in the game? 
     * Ballistic
-Type: P2P
-Ballistic Projectiles can be directly aimed at a core or on a mod. They are target locked and have a more focused blast radius.
+      * Type: P2P
+      * Ballistic Projectiles can be directly aimed at a core or on a mod. They are target locked and have a more focused blast radius.
     * EMP
-Type: AOE
-Creates a powerful EMP burst that disables any core or mods under the area of influence and temporarily deactivates base defenses. 
+      * Type: AOE
+      * Creates a powerful EMP burst that disables any core or mods under the area of influence and temporarily deactivates base defenses. 
     * Earther
-Type: P2P
-It neutralizes the energy core by dissipating energy into the ground. It overrides the core defenses by tripping multiple breakers within the core.
+      * Type: P2P
+      * It neutralizes the energy core by dissipating energy into the ground. It overrides the core defenses by tripping multiple breakers within the core.
     * Linear Shorter 
-Type: P2P
-It short circuits the energy core by connecting it to a more powerful allied core. It overloads the core defenses and effectively neutralizes the core.
+      * Type: P2P
+      * It short circuits the energy core by connecting it to a more powerful allied core. It overloads the core defenses and effectively neutralizes the core.
     * Vortex
-Type:AOE
-This weapon can be used to directly target an opposing player. It drains energy from opposing players within the area of effect and transfers part of that energy to you. It is ineffective against enemy mods or cores.
+      * Type:AOE
+      * This weapon can be used to directly target an opposing player. It drains energy from opposing players within the area of effect and transfers part of that energy to you. It is ineffective against enemy mods or cores.
     * Morph 
-Type: P2P 
-This weapon is purely chance based. It transforms enemy cores into any of the four Megacorp’s cores at random, if used on a Mod it transforms to any other Mod at random.
+      * Type: P2P 
+      * This weapon is purely chance based. It transforms enemy cores into any of the four Megacorp’s cores at random, if used on a Mod it transforms to any other Mod at random.
 
 * What are Mods? 
   * Mods can be installed on cores and clan bases to protect them from enemy attack. Each mod has its own unique defensive properties and can be used in combination according to your clan’s strategy.
-    * Vector
-Enables players to create base-base connects that are crucial to the dominance of their Megacorp. The bases to be connected must both be equipped with vector mods for connecting to be successful. The range of the connects that can be created increases with the level of the mod.
-    * X Mod
-Enables a player to initiate a cluster battle, if a player uses an attack vector on an enemy clan cluster the two clusters are locked into battle for the period of a ‘loop’.
-    * Night Cloud
-Releases an electronic fog that affects devices within the area of influence and hampers visibility. Temporarily disables the ability of enemies to respond to attacks.
-    * Flare
-Absorbs incoming attacks and converts it into usable energy. It transfers part of this energy to cores connected to the base.
-    * Mirror
-Deflects incoming attacks and deals part of the damage back to the attacker. The higher the damage inflicted on the mod, higher is the energy drained from the player.
-    * Kinetic Shield
-Shields the base and stops incoming attacks dead in their tracks. The buffer zone created by the shield disables enemy weapons temporarily.
-    * Solar Cell
-Converts solar power into usable energy and decreases the total power consumption of a base helping it avoid destabilization.
-    * Compactor
-Optimizes mod capacity on base rings and opens up more storage slots.The power requirement of any mods deployed on compactor slots is higher than normal mods.
+    * Vector - Enables players to create base-base connects that are crucial to the dominance of their Megacorp. The bases to be connected must both be equipped with vector mods for connecting to be successful. The range of the connects that can be created increases with the level of the mod.
+    * X Mod - Enables a player to initiate a cluster battle, if a player uses an attack vector on an enemy clan cluster the two clusters are locked into battle for the period of a ‘loop’.
+    * Night Cloud - Releases an electronic fog that affects devices within the area of influence and hampers visibility. Temporarily disables the ability of enemies to respond to attacks.
+    * Flare - Absorbs incoming attacks and converts it into usable energy. It transfers part of this energy to cores connected to the base.
+    * Mirror - Deflects incoming attacks and deals part of the damage back to the attacker. The higher the damage inflicted on the mod, higher is the energy drained from the player.
+    * Kinetic Shield - Shields the base and stops incoming attacks dead in their tracks. The buffer zone created by the shield disables enemy weapons temporarily.
+    * Solar Cell - Converts solar power into usable energy and decreases the total power consumption of a base helping it avoid destabilization.
+    * Compactor - Optimizes mod capacity on base rings and opens up more storage slots.The power requirement of any mods deployed on compactor slots is higher than normal mods.
 
 # Fracking : Mining for resources
 
@@ -270,7 +265,7 @@ The privileges of each class are as follows:
 * How do I maintain a clan base? 
   * The clan base is powered by the cores connected to it. The power consumption of the clan base is dependent on the base level as well as the number of mods equipped on it. If the power supplied by the cores is less than the power consumption of the base then the base is destabilized and loses its base rings one by one until the power deficit is met. 
 
-# Battling an emney cluster 
+# Battling an enemy cluster 
 
 * How do I create a Cluster?
   * Create a Cluster for your Megacorp by connecting Clan Bases using the ‘Vector’ mod. If two Bases belonging to the same Megacorp are equipped with a Vector, players can connect the two Bases together by a ‘Connection string’. These Clusters can help you build the dominance of your Megacorp in the region and can be pitted against enemy Clusters in battles.
@@ -278,11 +273,11 @@ The privileges of each class are as follows:
 * How do I attack an enemy Cluster?
   * If you have already created a Cluster for your Megacorp, you can initiate a battle with another Cluster by connecting to the enemy Cluster with an ‘X Mod’. An X mod can initiate a connection without the enemy base accepting to it. Once the ‘Attack string’ is formed then both clusters are locked into battle for the period of 24 hours (1 day) consisting a battle.
     The range (Maximum length of Attack string formed) of an X Mod increases according to its level.
-        L1 X Mod: 600 km
-        L2 X Mod: 850 km
-        L3 X Mod: 1200 km
-        L4 X Mod: 2000 km
-        L5 X Mod: 3000 km
+  * L1 X Mod: 600 km
+  * L2 X Mod: 850 km
+  * L3 X Mod: 1200 km
+  * L4 X Mod: 2000 km
+  * L5 X Mod: 3000 km
 
 * How is the strength of a Cluster calculated?
   * Identification: Once an 'Attack string' is established only the forward connections from the origins are identified for both clusters. These are the Bases that count towards Cluster strength.
